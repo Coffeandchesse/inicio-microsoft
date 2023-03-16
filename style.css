@@ -1,6 +1,6 @@
- body{
-        background-color: gray-500;
-      }
+ .fondo{
+  background-color:  rgb(177, 216, 239);) 
+            }
  
  
  
@@ -14,3 +14,13 @@
      margin-left: 455px;
      margin-bottom: 400px;
  }
+
+.logo-microsoft{
+  width: 120px;
+  height: 23px;
+  background-color: white;
+  margin-left: 40px;
+  margin-top: 40px;
+
+}
+
