@@ -1,5 +1,5 @@
  .fondo{
-  background-color:  rgb(177, 216, 239);) 
+  background-color:  rgb(177, 216, 239);
             }
  
  
@@ -7,7 +7,7 @@
  .cuadrado-inicio {
     width: 439px;
 			height: 335px;
-			background-color: red;
+			background-color: white;
 			border: 2px solid black;
       position: absolute;
      margin-top: 110px;
@@ -15,12 +15,22 @@
      margin-bottom: 400px;
  }
 
-.logo-microsoft{
+.logo-microsoft {
   width: 120px;
   height: 23px;
   background-color: white;
   margin-left: 40px;
   margin-top: 40px;
 
+}
+
+.sign-in {
+    background-color: white;
+    width: 82px ;
+    height: 38px;
+    margin-left: 40px;
+    margin-top: 11px;
+    font-size: 170%;
+    color: ;
 }
 
